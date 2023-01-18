@@ -2,7 +2,9 @@
 
 Hi! 
 
-This repository shows some of the CTF challenges I completed as a part of my university's cybersecurity club, CU Cyber, and created public writeups for.
+This repository shows some of the CTF challenges I completed as a part of my university's cybersecurity club, [CU Cyber](https://github.com/CUCTF), and created public writeups for.
+
+
 
 ## CSAW 2022
 
